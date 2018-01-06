@@ -1,0 +1,15 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Overview
+    output: web
+    folderitems:
+
+    - title: Blue Mobile
+      url: /blue-mobile.html
+      output: web
+      type: homepage
