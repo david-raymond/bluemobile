@@ -113,7 +113,7 @@ description: "Blue Mobile camper van conversion project site."
 
 # needed for sitemap.xml file only
 #url: http://bluemobile.azyva.org
-url: https://david-raymond.github.io/bluemobilez
+#url: https://david-raymond.github.io/bluemobilez
 
 plugins:
   - jekyll-redirect-from
