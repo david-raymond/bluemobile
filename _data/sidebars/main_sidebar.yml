@@ -9,7 +9,35 @@ entries:
     output: web
     folderitems:
 
-    - title: Blue Mobile
+    - title: Project teaser
       url: /blue-mobile.html
       output: web
       type: homepage
+
+    - title: Inception
+      url: /intro-inception.html
+      output: web
+
+    - title: High-level design choices
+      url: /intro-high-level-design-choices.html
+      output: web
+
+    - title: Promaster
+      url: /intro-promaster.html
+      output: web
+
+    - title: Modular build
+      url: /intro-modular-build.html
+      output: web
+
+    - title: Winter build
+      url: /intro-winter-build.html
+      output: web
+
+  - title: Chronological build
+    output: web
+    folderitems:
+
+    - title: 2017-12-15 - The van is home
+      url: /chrono-2017-12-15.html
+      output: web

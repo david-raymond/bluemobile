@@ -1,0 +1,42 @@
+---
+title: Winter build
+# keywords:
+last_updated: 2018-01-06
+# tags: []
+# summary: ""
+sidebar: main_sidebar
+permalink: intro-winter-build.html
+toc: false
+# folder: intro
+comments: true
+---
+
+We got our bare van on December 15, 2017. In Quebec, December is winter time, and particularly this year, it has been pretty cold since then (we are writing this on January 7, 2018). The van does not fit in our garage, so any work on it must be done outside.
+
+We tried to find a shop we could rent. But for various reasons, this did not work out:
+
+- There are some DIY garages in and around Montreal where you can do work on your car, but they are around 30 km from our place and aside from the logistics of having to carry a bunch of tools from my house, we could easily imagine missing a tool or something available in the house
+- We did not purchase winter tires for the van since it will not initially be used during winter, and winter tires are required by law in Quebec between December 15 and March 15 (although we could probably have avoided any problem for short distances)
+- We have some friends who work in the industrial area of the city where we live and have shops with high garage doors, but their workshop was not available for such use
+
+So, we have to deal with the cold weather, and accept the fact that build progress would be significantly slowed down during the cold period.
+
+One thing we did to help is install a temporary regular household baseboard heater in the van, which we connected directly to an unused breaker in the house electrical panel in the garage. This helps, but not much when it is very cold, especially with a bare metal shell.
+
+On some occasions, we started the gaz engine of the van and maxed out the heater. This works better. But still working in the cold between the garage and the van is not ideal.
+
+The thing is that many initial steps in the build process involve gluing:
+
+- Soundproofing sheeting glued to van walls and ceiling (self-adhesive)
+- Insulation panels glued to van walls and ceiling using construction and spray adhesive
+- Lumbers glued to floor using construction adhesive
+
+(You can lean more about the specifics of the build in other sections.)
+
+Not only are adhesive generally not effective in the cold, but cold metal forms condensation when the interior is heated, which is even worse for adhesives.
+
+We were still able to successfully perform some gluing steps by taking advantage of the sun. The van being blue helps absorb the sun's energy and the side of the van, and to some extent the roof, exposed to the sun (a few hours a day as days are much shorter in the winter) was warm enough to eliminate condensation and allow the soundproofing adhesive to work (after having been warmed up on top of the baseboard heater and with a hair dryer...), and the construction and spray adhesives to properly cure and secure the insulation panels.
+
+Unfortunately, the gluing on the floor had to be postponed until much warmer weather since the sun cannot help for the floor and heat raises up to the ceiling. And the strength of the construction adhesive used on the floor had to be at its strongest since it is used for securing lumber to the floor for eventually anchoring cabinets with large wood anchors, while avoiding drilling holes in the floor.
+
+Of course during cold weather, some work other than gluing could still be done in the van, such as cutting cardboard templates for various panel shapes. And some work could also be done in the garage, such as cutting those panels to shape according to the cardboard templates.
