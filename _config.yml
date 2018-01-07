@@ -112,7 +112,7 @@ description: "Blue Mobile camper van conversion project site."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-#url: http://bluemobile.azyva.org
+url: http://bluemobile.azyva.org
 #url: https://david-raymond.github.io/bluemobilez
 
 plugins:
