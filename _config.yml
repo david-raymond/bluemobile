@@ -18,7 +18,8 @@ disqus: true
 disqus_shortname: bluemobile
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
-host: 127.0.0.1
+#host: 127.0.0.1
+host: 192.168.1.2
 # the preview server used. Leave as is.
 
 port: 4000
@@ -113,8 +114,8 @@ description: "Blue Mobile camper van conversion project site."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-#url: http://bluemobile.azyva.org
-url: https://david-raymond.github.io/bluemobile
+url: http://bluemobile.azyva.org
+#url: https://david-raymond.github.io/bluemobile
 
 plugins:
   - jekyll-redirect-from

@@ -21,22 +21,23 @@ We tried to find a shop we could rent. But for various reasons, this did not wor
 
 So, we have to deal with the cold weather, and accept the fact that build progress would be significantly slowed down during the cold period.
 
-One thing we did to help is install a temporary regular household baseboard heater in the van, which we connected directly to an unused breaker in the house electrical panel in the garage. This helps, but not much when it is very cold, especially with a bare metal shell.
+One thing we did to help is install a temporary regular residential baseboard heater in the van, which we connected directly to an unused breaker in the house electrical panel in the garage. This helps, but not much when it is very cold, especially with a bare metal shell.
 
-On some occasions, we started the gaz engine of the van and maxed out the heater. This works better. But still working in the cold between the garage and the van is not ideal.
+On some occasions, we started the gas engine of the van and maxed out the heater. This works better and manages to warm up the upper half of the van, close to the ceiling. But still working in the cold between the garage and the van is not ideal, and the floor remains cold.
 
 The thing is that many initial steps in the build process involve gluing:
 
 - Soundproofing sheeting glued to van walls and ceiling (self-adhesive)
 - Insulation panels glued to van walls and ceiling using construction and spray adhesive
 - Lumbers glued to floor using construction adhesive
+- Spray foam for sealing gaps around insulation panels
 
 (You can lean more about the specifics of the build in other sections.)
 
-Not only are adhesive generally not effective in the cold, but cold metal forms condensation when the interior is heated, which is even worse for adhesives.
+Not only are adhesives generally not effective in the cold, but cold metal forms condensation and frost when the interior is heated, which is even worse.
 
-We were still able to successfully perform some gluing steps by taking advantage of the sun. The van being blue helps absorb the sun's energy and the side of the van, and to some extent the roof, exposed to the sun (a few hours a day as days are much shorter in the winter) was warm enough to eliminate condensation and allow the soundproofing adhesive to work (after having been warmed up on top of the baseboard heater and with a hair dryer...), and the construction and spray adhesives to properly cure and secure the insulation panels.
+We were still able to successfully perform some gluing steps by taking advantage of the sun. The van being blue helps absorb the sun's energy and the side of the van, and to some extent the roof, exposed to the sun (a few hours a day as days are much shorter in the winter) was warm enough to eliminate condensation (but the soundproofing adhesive, construction glue and spray adhesive still had to be warmed up on top of the baseboard heater and with a hair dryer...) before use.
 
-Unfortunately, the gluing on the floor had to be postponed until much warmer weather since the sun cannot help for the floor and heat raises up to the ceiling. And the strength of the construction adhesive used on the floor had to be at its strongest since it is used for securing lumber to the floor for eventually anchoring cabinets with large wood anchors, while avoiding drilling holes in the floor.
+Unfortunately, the gluing on the floor had to be postponed to warmer days since the sun cannot help for the floor and heat raises up to the ceiling. And the construction adhesive used on the floor had to be at its strongest since it is used for securing lumber to the floor for eventually anchoring cabinets with large wood anchors (to avoiding drilling holes in the floor).
 
 Of course during cold weather, some work other than gluing could still be done in the van, such as cutting cardboard templates for various panel shapes. And some work could also be done in the garage, such as cutting those panels to shape according to the cardboard templates.
