@@ -12,7 +12,7 @@ toc: false
 comments: true
 ---
 
-{% include image.html file="IMG_3014.JPG" caption="The brand new bare van" %}
+{% include image.html file="BarePromasterVan.jpg" caption="The brand new bare van" %}
 
 This site is all about our camper van conversion build, which we named "Blue Mobile".
 
@@ -44,6 +44,8 @@ Who we are
 ----------
 
 We are David and Dominique, a middle aged French-Canadian couple living in Montreal, Quebec (this site is in English simply for reaching a greater audience). We have 2 children in their early adulthood. Younger, they have often traveled with us, but this project is mostly for us, not the whole family. We also have a 10 year-old Fox Terrier, who may accompany us on some or our future road trips.
+
+{% include image.html file="DavidAndDominiqueInGrandCanyon.jpg" caption="David and Dominique in Grand Canyon" %}
 
 We like to travel and have visited a reasonable number of places in the world (all-inclusive resorts, cruises, trips in remote countries, camping).
 

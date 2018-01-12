@@ -14,7 +14,9 @@ comments: true
 Our road trip in the American West
 ----------------------------------
 
-The project started around July 2017 when me and my wife were reflecting on our road trip in the fall of 2016 in the American West (Grand Canyon, etc.) with a small rental van from <a href="https://www.escapecampervans.com/" target="_blank">Escape CamperVans</a>.
+The project started around July 2017 when me and my wife were reflecting on our road trip in the fall of 2016 in the American West (Grand Canyon, etc.) with a small rental van from <a href="https://www.escapecampervans.com" target="_blank">Escape CamperVans</a>.
+
+{% include image.html file="OurRentalEscapeCamperVan.jpg" caption="Our rental Escape CamperVan" %}
 
 Although this rental van was pretty small and limited in terms of amenities, we absolutely loved the fact that it was both our everyday vehicle and home. Anywhere we would go, it would come with us.
 
@@ -22,8 +24,8 @@ Feel like stopping by Wallmart to purchase some food? And decide to stick around
 
 Decide to change plans and leave for another far-away place late in the evening? No problem! We can stop in a rest area or in many other places along the way to sleep before continuing our journey.
 
-We need a camper van and we want to build it
---------------------------------------------
+We need a camper van and want to build it
+-----------------------------------------
 
 So we concluded that owning our own camper van and doing other road trips across Canada and USA (and who knows, maybe even further...) would be something we would really enjoy.
 

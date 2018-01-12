@@ -33,6 +33,10 @@ entries:
     - title: Winter build
       url: /intro-winter-build.html
       output: web
+      
+    - title: Shopping
+      url: /intro-shopping.html
+      output: web
 
   - title: Chronological build
     output: web
