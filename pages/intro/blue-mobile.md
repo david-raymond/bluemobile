@@ -18,8 +18,8 @@ This site is all about our camper van conversion build, which we named "Blue Mob
 
 Let's see if the following teases you a bit:
 
-- Brand new 2018 [Promaster](overview-promaster.html) high-roof 159" wheelbase
-- [Modular](overview-modular-build.html) design (multipurpose vehicule)
+- Brand new 2018 [Promaster](intro-promaster.html) high-roof 159" wheelbase
+- [Modular](intro-modular-build.html) design (multipurpose vehicle)
 - Designed for 2 persons with fixed bed and lots of storage when in camper mode
 - Usable as a family vehicle for 5 persons with ample "trunk" volume
 - Usable as a roomy transport van when interior amenities removed

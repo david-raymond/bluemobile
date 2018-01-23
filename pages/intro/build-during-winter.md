@@ -13,6 +13,7 @@ comments: true
 
 We got our bare van on December 15, 2017. In Quebec, December is winter time, and particularly this year, it has been pretty cold since then, as low as -20 C/-4 F at some point (we are writing this on January 7, 2018). The van does not fit in our garage, so any work on it must be done outside.
 
+Note that this is about building the camper van during cold weather, not about build a camper van to be used in cold weather. Although the camper van will be reasonably well insulated, no efforts have been made to make it a winter camper van.
 
 We tried to find a shop we could rent. But for various reasons, this did not work out:
 
@@ -30,7 +31,7 @@ On some occasions, we started the gas engine of the van and maxed out the heater
 
 The thing is that many initial steps in the build process involve gluing:
 
-- Soundproofing sheeting glued to van walls and ceiling (self-adhesive)
+- Soundproofing membrane glued to van walls and ceiling (self-adhesive)
 - Insulation panels glued to van walls and ceiling using construction and spray adhesive
 - Lumbers glued to floor using construction adhesive
 - Spray foam for sealing gaps around insulation panels

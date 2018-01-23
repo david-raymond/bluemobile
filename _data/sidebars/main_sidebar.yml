@@ -38,10 +38,22 @@ entries:
       url: /intro-shopping.html
       output: web
 
-  - title: Chronological build
+  - title: Build details
     output: web
     folderitems:
 
-    - title: 2017-12-15 - The van is home
-      url: /chrono-2017-12-15.html
+    - title: Inner wrapping
+      url: /build-
+      output: web
+
+  - title: Miscellaneous topics
+    output: web
+    folderitems:
+    
+    - title: Installing rivnuts the DIY way
+      url: /misc-installing-rivnuts-diy-way.html
+      output: web
+
+    - title: Solar and grid battery charing
+      url: /misc-solar-grid-battery-charging.html
       output: web
