@@ -18,14 +18,27 @@ Local hardware store
 
 To some extent, the interior of a camper van is similar to a house, and in many cases regular building material was used and was purchased at the local hardware store close to where we live, Réno Dépôt. We often shop at Réno Dépôt and particularly appreciate their easy no-questions-asked return policy, even if the purchase has been made more than 3 months ago and even if you do not have your invoice (in which case they give you a credit note). 
 
-Examples of regular building materials we purchased at Réno Dépôt include;
+Examples of regular building materials we purchased at Réno Dépôt include:
 
 - Insulation panels
 - Construction and spray adhesives
 - Lumbers
 - Plywood
 - Fasteners
+- Various hardware items such as angle brackets
 - 120 V electrical supplies 
+
+Local electronic supply store
+-----------------------------
+
+Most small electronic and 12 V components can easily be purchased at the online giants, but in many cases, we wanted to "see and touch" before purchasing. <a href="http://www.kge.ca" target="_blank">King George Électronique</a> on the south shore of Montreal was a convenient place for such purchases, and in most cases, the prices are OK (compared to online purchases).
+
+Such items include:
+
+- 12 V switches
+- Small relays
+- Shrink tube
+- Small enclosures
 
 Low gauge cables
 ----------------
@@ -66,4 +79,4 @@ These include:
 - Switches
 
 tissus?
-KGE for electronics.
+Wood for cabinets (Langevin Forest)

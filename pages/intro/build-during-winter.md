@@ -1,17 +1,18 @@
 ---
-title: Winter build
+title: Build during winter
 # keywords:
 last_updated: 2018-01-06
 # tags: []
 # summary: ""
 sidebar: main_sidebar
-permalink: intro-winter-build.html
+permalink: intro-build-during-winter.html
 toc: false
 # folder: intro
 comments: true
 ---
 
-We got our bare van on December 15, 2017. In Quebec, December is winter time, and particularly this year, it has been pretty cold since then (we are writing this on January 7, 2018). The van does not fit in our garage, so any work on it must be done outside.
+We got our bare van on December 15, 2017. In Quebec, December is winter time, and particularly this year, it has been pretty cold since then, as low as -20 C/-4 F at some point (we are writing this on January 7, 2018). The van does not fit in our garage, so any work on it must be done outside.
+
 
 We tried to find a shop we could rent. But for various reasons, this did not work out:
 

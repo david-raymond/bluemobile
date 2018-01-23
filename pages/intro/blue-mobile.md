@@ -26,7 +26,7 @@ Let's see if the following teases you a bit:
 - Emphasis on electricity (no fixed propane)
 - Balance between finishing quality and build effort/time
 - Basic tools and skills required (we are no expert woodworkers...)
-- Most of the build done during Canadian cold [winter](overview-winter-build.html)
+- Most of the build done during Canadian cold [winter](intro-build-during-winter.html)
 
 If you are dreaming of building your own camper van as we did before undertaking this project..
 
@@ -49,6 +49,6 @@ We are David and Dominique, a middle aged French-Canadian couple living in Montr
 
 We like to travel and have visited a reasonable number of places in the world (all-inclusive resorts, cruises, trips in remote countries, camping).
 
-The 2-week road trip we did in the fall of 2016 in the American West (Grand Canyon, etc.) with a small rental van from <a href="https://www.escapecampervans.com/" target="_blank">Escape CamperVans</a> was the main early [trigger](intro-inception.html) for this project.
+The 2-week road trip we did in the fall of 2016 in the American West (Grand Canyon, etc.) with a small rental van from <a href="https://www.escapecampervans.com" target="_blank">Escape CamperVans</a> was the main early [trigger](intro-inception.html) for this project.
 
 Enjoy!

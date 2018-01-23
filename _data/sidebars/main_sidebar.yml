@@ -30,8 +30,8 @@ entries:
       url: /intro-modular-build.html
       output: web
 
-    - title: Winter build
-      url: /intro-winter-build.html
+    - title: Build during winter
+      url: /intro-build-during-winter.html
       output: web
       
     - title: Shopping
