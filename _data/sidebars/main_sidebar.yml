@@ -43,7 +43,11 @@ entries:
     folderitems:
 
     - title: Inner wrapping
-      url: /build-
+      url: /build-inner-wrapping.html
+      output: web
+
+    - title: Bench seat
+      url: /build-bench-seat.html
       output: web
 
   - title: Miscellaneous topics
@@ -54,6 +58,6 @@ entries:
       url: /misc-installing-rivnuts-diy-way.html
       output: web
 
-    - title: Solar and grid battery charing
+    - title: Solar and grid battery charging
       url: /misc-solar-grid-battery-charging.html
       output: web

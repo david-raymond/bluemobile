@@ -22,7 +22,7 @@ Let's see if the following teases you a bit:
 - [Modular](intro-modular-build.html) design (multipurpose vehicle)
 - Designed for 2 persons with fixed bed and lots of storage when in camper mode
 - Usable as a family vehicle for 5 persons with ample "trunk" volume
-- Usable as a roomy transport van when interior amenities removed
+- Usable as a roomy cargo van when interior amenities removed
 - Emphasis on electricity (no fixed propane)
 - Balance between finishing quality and build effort/time
 - Basic tools and skills required (we are no expert woodworkers...)

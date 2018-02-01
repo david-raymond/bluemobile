@@ -109,14 +109,14 @@ We believe the other choices we made will allow us to have ample storage space.
 Modular design
 --------------
 
-The idea to make the build [modular](intro-modular-build.html) came on later during our planning. We were analyzing various ways to build the camper van, mostly the cabinets. And although the details are not known as of now, we are aiming for custom-made independent cabinets, similar to modern kitchen cabinets. And if appropriate considerations are taken, the cabinets (and the bed platform) and the way to solidly anchor them to the vehicle (floor and walls) can be designed so that they are easily removable.
+The idea to make the build [modular](intro-modular-build.html) came on later during our planning. We were analyzing various ways to build the camper van, mostly the cabinets. And although the details are not known as of now, we are aiming for custom-made independent cabinets, similar to modern kitchen cabinets. And if appropriate considerations are taken, the cabinets (and the bed platform) and the way to solidly anchor them to the vehicle (floor and walls) can be designed so that they are easily [removable](misc-removable-cabinet-anchoring.html).
 
 The idea is that when not used as a camper van, the vehicle could also be used as:
 
 - A cargo van for transporting various large and/or numerous items (renovation materials, moving)
 - A family vehicle with ample "trunk" space (ski trip)
 
-So we included modularity as a high-level design choice, and included the option of having a removable 2nd row bench seat, to make it usable as a 5-person vehicle. This bench seat would not be used in camper mode.
+So we included modularity as a high-level design choice, and included the option of having a removable 2<sup>nd</sup> row [bench seat](build-bench-seat.html), to make it usable as a 5-person vehicle. This bench seat would not be used in camper mode.
 
 Weight reduction
 ----------------
@@ -137,6 +137,6 @@ Target price for the conversion
 
 We estimated that the conversion would cost us between 10K and 20K $ CAD on top of the base vehicle price. We are working hard to keep it within that range.
 
-We are currently hovering at around 15K $ CAD and hope to remain close to this until the end of the conversion.
+As of January 2018, we are currently hovering at around 15K $ CAD (current expenses plus remaining planned) and hope to remain close to this until the end of the conversion.
 
 Of course, we are talking only about parts and materials here. We are not talking about time which is not factored in. Building the camper van is considered part of the fun in this project and time is not accounted for as an investment.
