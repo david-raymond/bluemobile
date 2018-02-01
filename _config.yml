@@ -2,10 +2,10 @@
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Blue Mobile
+topnav_title: Blue Mobile camper van conversion
 # this appears on the top navigation bar next to the home button
 
-site_title: Dragom
+site_title: Blue Mobile camper van conversion
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name:
@@ -14,10 +14,12 @@ company_name:
 # github_editme_path: tomjohnson1492/documentation-theme-jekyll/blob/gh-pages/pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# disqus_shortname: idrbwjekyll
+disqus: true
+disqus_shortname: bluemobile
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
-host: 127.0.0.1
+#host: 127.0.0.1
+host: 192.168.1.2
 # the preview server used. Leave as is.
 
 port: 4000
@@ -29,7 +31,7 @@ exclude:
   - .settings/
 # these are the files and directories that jekyll will exclude from the build
 
-# feedback_subject_line: Dragom
+# feedback_subject_line: Blue Mobile
 
 # feedback_email: david.raymond@azyva.ca
 # used as a contact email for the Feedback link in the top navigation bar
@@ -113,7 +115,7 @@ description: "Blue Mobile camper van conversion project site."
 
 # needed for sitemap.xml file only
 url: http://bluemobile.azyva.org
-#url: https://david-raymond.github.io/bluemobilez
+#url: https://david-raymond.github.io/bluemobile
 
 plugins:
   - jekyll-redirect-from

@@ -59,7 +59,7 @@ layout: default
         {% endif %}
     </div>
 
-    {% if site.disqus %}
+    {% if site.disqus and page.comments %}
 {% include disqus.html %}
     {% endif %}
 

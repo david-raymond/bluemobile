@@ -9,7 +9,55 @@ entries:
     output: web
     folderitems:
 
-    - title: Blue Mobile
+    - title: Project teaser
       url: /blue-mobile.html
       output: web
       type: homepage
+
+    - title: Inception
+      url: /intro-inception.html
+      output: web
+
+    - title: High-level design choices
+      url: /intro-high-level-design-choices.html
+      output: web
+
+    - title: Promaster
+      url: /intro-promaster.html
+      output: web
+
+    - title: Modular build
+      url: /intro-modular-build.html
+      output: web
+
+    - title: Build during winter
+      url: /intro-build-during-winter.html
+      output: web
+      
+    - title: Shopping
+      url: /intro-shopping.html
+      output: web
+
+  - title: Build details
+    output: web
+    folderitems:
+
+    - title: Inner wrapping
+      url: /build-inner-wrapping.html
+      output: web
+
+    - title: Bench seat
+      url: /build-bench-seat.html
+      output: web
+
+  - title: Miscellaneous topics
+    output: web
+    folderitems:
+    
+    - title: Installing rivnuts the DIY way
+      url: /misc-installing-rivnuts-diy-way.html
+      output: web
+
+    - title: Solar and grid battery charging
+      url: /misc-solar-grid-battery-charging.html
+      output: web
