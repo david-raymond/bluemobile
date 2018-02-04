@@ -24,14 +24,17 @@ Camper van
 
 {% include image.html file="LayoutCamper.png" caption="Camper van layout" %}
 
-- Bed platform is about 30" above the floor
-- Bed platform made up of 3 boards over driver-side division, center and power center cabinet (see other layouts)
-- Bed platform sleeps sideways (we are rather short persons)
+- Bed platform:
+  - About 30" above the floor
+  - Made up of 3 boards over driver-side division, center and power center cabinet (see other layouts)
+  - Sleeps sideways (we are rather short persons)
+  - Width of a full (double) bed: 54"
+  - Approximately 6' long from head to toes
 - Under bed storage accessible from the rear (left of bed)
 - Rear storage is on 36" drawer floor slide which extends outside
-- Under bed storage accessible from inside (right bed)
-- Upper cabinets close to ceeling and above sleepers' feet
-- Outside folding table attached to galley so that height from ground comfortable
+- Under bed storage accessible from inside (right of bed)
+- Upper cabinets close to ceiling and above sleepers' feet
+- Outside folding table attached to galley so that height from ground as a regular table
 - [No fixed shower and toilet](intro-high-level-design-choices.html#no-fixed-shower-toilet)  
   
 Family vehicle

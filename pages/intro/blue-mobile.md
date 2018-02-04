@@ -25,7 +25,7 @@ Let's see if the following teases you a bit:
 - Usable as a roomy cargo van when interior amenities removed
 - Emphasis on electricity (no fixed propane)
 - Balance between finishing quality and build effort/time
-- Basic tools and skills required (we are no expert woodworkers...)
+- [Basic tools](misc-basic-tools.html) and skills required (we are no expert woodworkers...)
 - Most of the build done during Canadian cold [winter](intro-build-during-winter.html)
 
 If you are dreaming of building your own camper van as we did before undertaking this project..

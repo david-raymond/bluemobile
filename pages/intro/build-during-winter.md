@@ -25,7 +25,7 @@ So, we have to deal with the cold weather, and accept the fact that build progre
 
 One thing we did to help is install a temporary regular residential baseboard heater in the van, which we connected directly to an unused breaker in the house electrical panel in the garage. This helps, but not much when it is very cold, especially with a bare metal shell.
 
-{% include image.html file="BaseboardHeaterForWinterBuild.jpg" caption="Baseboard heater for windows build" %}
+{% include image.html file="BaseboardHeaterForWinterBuild.jpg" caption="Baseboard heater for winter build" %}
 
 On some occasions, we started the gas engine of the van and maxed out the heater. This works better and manages to warm up the upper half of the van, close to the ceiling. But still working in the cold between the garage and the van is not ideal, and the floor remains cold.
 
