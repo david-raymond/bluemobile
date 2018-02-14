@@ -11,7 +11,7 @@ toc: false
 comments: true
 ---
 
-Our road trip in the American West
+Our road trip in the American West {#road-trip-american-west}
 ----------------------------------
 
 The project started around July 2017 when me and my wife were reflecting on our road trip in the fall of 2016 in the American West (Grand Canyon, etc.) with a small rental van from <a href="https://www.escapecampervans.com" target="_blank">Escape CamperVans</a>.

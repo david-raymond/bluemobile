@@ -20,7 +20,7 @@ To some extent, the interior of a camper van is similar to a house, and in many 
 
 Examples of regular building materials we purchased at Réno Dépôt include:
 
-- Insulation panels
+- Insulation boards
 - Construction and spray adhesives
 - Lumbers
 - Plywood

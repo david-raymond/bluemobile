@@ -8,6 +8,8 @@ cardboard dans les magasin de meubles
 
 Inclure photos humoristiques d'hiver
 
-Local renovation centre: Reno Dépôt
+Local renovation centre: Reno Dï¿½pï¿½t
 Use lots of regular products
 But some specialized
+
+Link from high-level-design-choices, no new holes, to electrical system: Maybe tag for how to feed wires.
