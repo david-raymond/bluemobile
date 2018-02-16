@@ -201,7 +201,7 @@ But as much as possible, we avoided it. In particular, we did not want to drill 
 
 - [Anchoring cabinets](misc-removable-cabinet-anchoring.html) (use of existing threaded anchoring nuts and glued lumbers) 
 - Bringing the [solar panel](build-electrical-system.html) cables into the van (feed through new hole in the plastic rearview camera housing)
-- Attaching [rough plywood panels](build-inner-wrapping.html#rough-plywood-panels) to van walls (use of rivnuts in existing fitting holes)
+- Attaching [rough plywood panels](build-inner-wrapping.html#rough-plywood-panels) to van walls (use of [rivnuts](build-inner-wrapping.html#rivnuts) in existing fitting holes)
 - Water pipes, in or out ([no fixed shower and toilet](#no-fixed-shower-toilet) so no water tanks)
 
 Target price for the conversion {#target-price-for-conversion}

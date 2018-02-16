@@ -147,15 +147,15 @@ Note that the empty spaces behind the structural metal beams, and in some other 
 Spray foam {#spray-foam}
 ----------
 
-As mentioned in [this section](#insulation-boards), we used spray foam to seal the gap between the edges of the insulation boards and the van metal panels. We used this product because is has minimal expansion:
+As mentioned [here](#insulation-boards), we used spray foam to seal the gap between the edges of the insulation boards and the van metal panels. We used this product because is has minimal expansion:
 
 {% include image.html file="TouchNFoamSprayFoam.jpg" caption="Touch'n Foam Spray Foam" %}
 
 This is only to prevent moisture from getting between the insulation boards and the metal panels since the [soundproofing](#soundproofing) membrane pieces create a gap between the boards and the metal panels. If it had not been for this gap, we would probably have glued the boards using spray adhesive instead of thicker construction adhesive and avoided the use of spray foam.
 
-Spray foam is messy to apply. It is not really a spray and it does not hold in place unless the stuff is applied when the tip of the straw is really close to the material on which it is applied, and if it is applied in a gap or crack, or at least between materials forming a 90&deg; andle. Do wear gloves. 
+Spray foam is messy to apply. It is not really a spray and it does not hold in place unless it is applied when the tip of the straw is really close to the material, and if it is applied in a gap or crack, or at least between materials forming an angle. Do wear gloves. 
 
-Also, spray foam is hard to apply in hard-to-reach areas. Even if the straw can easily be inserted between a structural metal beam and the insulation board, its tip cannot easily be oriented toward the gap or 90&deg; angle formed by two materials. We had to improvise and build a tool to help with a piece of electrical wire fish tape attached to the tip of the straw so that it can be oriented with one hand while the other squeezes the trigger.
+Also, spray foam is hard to apply in hard-to-reach areas. Even if the straw can easily be inserted between a structural metal beam and the insulation board, its tip cannot easily be oriented toward the gap or angle formed by the board and the metal panel. We had to improvise and build a tool to help with a piece of electrical wire fish tape attached to the tip of the straw so that it can be oriented with one hand while the other squeezes the trigger.
  
 {% include image.html file="ToolForApplyingSprayFoamInHardToReachAreas.jpg" caption="Tool for applying spray foam in hard-to-reach areas" %}
 
@@ -163,22 +163,82 @@ Note that foam has not been sprayed within structural metal beams. It was tempti
 
 And even then, not all areas behind structural metal beams should be filled. Some of these areas contain wires and provide access to replaceable components such as tail lights.
 
-Maybe if spray foam insulation had been done professionally by a specialized company, we would have asked to completely filled many of these areas behing structural beams. By it was not, so we left these areas uninsulated.
+Maybe if spray foam insulation had been done professionally by a specialized company, we would have asked to completely filled many of these areas behind structural beams. But it was not, so we left these areas uninsulated.
 
 We believe these empty beams will allow some air circulation to avoid long term moisture accumulation from condensation and that it will reduce the risk of corrosion.
 
 Reflective bubble wrap {#reflective-bubble-wrap}
 ---------------------- 
 
+Many camper van conversions use reflective bubble wrap (very often the Reflectix brand) as part of the insulation. It does look nice once installed (although hidden when the inner wrapping is complete). But after having read about it in many places including:
 
+<a href="https://vanlife.academy/spray-foam-van-insulation-reflectix/" target="_blank">https://vanlife.academy/spray-foam-van-insulation-reflectix/</a>
+<a href="https://www.thespruce.com/is-reflectix-foil-considered-real-insulation-1821923" target="_blank">https://www.thespruce.com/is-reflectix-foil-considered-real-insulation-1821923</a>
+<a href="https://www.reflectixinc.com/about-reflectix/technical-support/" target="_blank">https://www.reflectixinc.com/about-reflectix/technical-support/</a>
+
+we concluded it does not provide much benefits. Nevertheless, the principle of reflecting radiant heat trying to escape through wall back into the living area did make sense to us and the way we installed the [insulation boards](#insulation-boards} on the walls and ceiling allows for the required gap (about 1/2" to 1") for reflective bubble wrap to be effective. So we did include it in our build. And some will be left to make reflective window shades for hot and sunny days. 
+
+We used this product which was available at our local renovation center:
+
+{% include image.html file="AyrFoilReflectiveBubbleWrap.jpg" caption="Ayr Foil reflective bubble wrap" %}
+
+We installed reflective bubble wrap on all wall and ceiling sections. 
+
+{% include image.html file="ReflectiveBubbleWrapPassengerSide.jpg" caption="Reflective bubble wrap on passenger side" %}
+
+{% include image.html file="ReflectiveBubbleWrapDriverSide.jpg" caption="Reflective bubble wrap on driver side" %}
+
+Image of reflective bubble wrap on ceiling to come.
+
+We used this red sheathing tape to install the reflective bubble wrap (product code 205-02):
+
+{% include image.html file="TuckTapeRedSheathingTape.jpg" caption="Tuck Tape red sheathing tape" %}
+
+This tape will stick to pretty much everything and its stickiness will not degrade much even in the presence of moisture or some dirt. 
+
+Note that we avoided completely sealing the gaps between the edges of the reflective bubble wrap and the structural metal beams to which it is taped in order to not block air circulation within the structural metal beams. The places where there is no tape are where there are holes in the beams. Again, this is to avoid moisture from condensation, or at least to allow such moisture to resorb.
 
 Rivnuts {#rivnuts}
 -------
 
+Since we wanted to [minimize new holes](intro-high-level-design-choices.html#minimize-new-holes) in the metal parts of the vehicle, we used rivnuts to provide threads in the existing fitting holes. Bolts are threaded into the rivnuts to hold the [rough plywood panels](#rough-plywood-panels).
 
+{% include image.html file="Rivnut.jpg" caption="Rivnut" %}
 
+These informative articles talk about using rivnuts and plusnuts for van conversions:
 
+<a href="http://www.pointsunknown.com/blog/2016/10/lessons-learned-rivnuts-vs-plusnuts/" target="_blank">http://www.pointsunknown.com/blog/2016/10/lessons-learned-rivnuts-vs-plusnuts/</a>
+<a href="http://faroutride.com/plusnut/" target="_blank">http://faroutride.com/plusnut/</a>
 
+They both recommend using plusnuts instead of rivnuts. But we nevertheless used rivnuts for the following reasons (which we now know think are probably invalid):
+
+- We felt plusnuts were more appropriate for thicker materials
+- Rivnuts are smaller and more discreet once installed
+- We felt the rivnuts would provide a better grip against spinning given that they sqeeze the metal panel around all the circumference (compared to only four wings in a plus configuration)
+
+But rivnuts are hard to DIY install (without a dedicated tool which we did not want to invest in) and are prone to spinning. If it were to be redone, we would probably use plusnuts throughout instead.
+
+There are many fitting holes of different sizes in the Promaster walls. But holes of only two sizes seemed appropropriate for securing the rough plywood panels.
+
+There are the many small holes which can be found:
+
+- On the lips Around the wheel wells
+- Aound the rear lower half finishing panel area (around the wheel well up to the middle strural beam)
+- Around the front lower and upper halves sections of the wall behind the driver (there are unfortunately not many in the upper half section)
+
+We used rivnut model IRLS-1024-125 from Tec-N-Tec for these holes. They are 0.292" in diameter and fit the holes which are probably 5/16" perfectly. They take #10 bolts with 24 TPI which could easily be found at our local renovation center.
+
+{% include image.html file="ASmallInstalledRivnut.jpg" caption="A small installed rivnut" %}
+
+Then, there are the larger hexagonal holes which can be found around the rear upper half finishing panel area. We used rivnut model IRLS-420-160 for these holes. They are 0.390" in diameter and fit the holes which are probably 7/16". But given that these holes are hexagonal, the fit is not as good as for the small holes.
+
+{% include image.html file="SomeLargeInstalledRivnuts.jpg" caption="Some large installed rivnuts" %}
+
+These rivnuts can be found in <a href="http://www.tec-n-tec.com/English/RiveTec/Insert/irlan.htm" target="_blank">this</a> page.
+
+The other holes in the Promaster walls are either too large for DIY install or are oval, rectangular or square, making them not appropriate for rivnuts. Also, there are not as many of them. We did not bother trying to use these holes for installing the rough plywood panels.
+
+See [here](misc-installing-rivnuts-diy-way.html) for advice in installing rivnuts the DIY way.
 
 Rough plywood panels {#rough-plywood-panels}
 --------------------
