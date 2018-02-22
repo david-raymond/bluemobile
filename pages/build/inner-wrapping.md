@@ -27,7 +27,9 @@ Soundproofing products are available on the market such as <a href="http://www.d
 We read that some people successfully use roof flashing membrane as a low-cost alternative to dedicated soundproofing products. For example:
 
 <a href="http://singletrackworld.com/forum/topic/dynamat-alternative-van-soundproofing-insulating-content/" target="_blank">http://singletrackworld.com/forum/topic/dynamat-alternative-van-soundproofing-insulating-content/</a>
+
 <a href="http://www.vauxhallownersnetwork.co.uk/index.php?threads/bitumen-flashband-as-sound-deadening-video-pics.394924/" target="_blank">http://www.vauxhallownersnetwork.co.uk/index.php?threads/bitumen-flashband-as-sound-deadening-video-pics.394924/</a>
+
 <a href="https://24htravellers.com/2017/06/09/car-door-sound-deadening-for-under-20/" target="_blank">https://24htravellers.com/2017/06/09/car-door-sound-deadening-for-under-20/</a>
 
 We went to our local renovation center and bought this:
@@ -36,7 +38,7 @@ We went to our local renovation center and bought this:
 
 Being somewhat worried about the fact that this product, like other roof waterproofing products, is bitumen-based, we checked with the manufacturer who confirmed that the membrane should not emit any smell or gas. However, they did warn that if installed vertically or on a ceiling it must be mechanically fastened, but that given that it will be covered with other material, it should not be a problem.
 
-This somewhat worried us as not all membrane pieces would be fully restrained by other material, such as in recessed sections of the ceiling. When hot, the membrane becomes very soft and gluey and we were afraid it could detach from the metal surface. To be sure, we made tests by:
+This cleared our worries about any side-effects of the membrane being bitumen-based. But we also do not want the membrane pieces not fully restrained by other material, such as in recessed sections of the ceiling, to detach from the metal surface, since when hot, the membrane becomes very soft and gluey. To be sure, we made tests by:
 
 - Cutting a small section of the membrane (about 1/2 ft<sup>2</sup>)
 - Gluing it to a metal sheet (with its self-adhesive backing)
@@ -68,10 +70,9 @@ Here are some pictures of the Resisto membrane installed:
 
 {% include image.html file="ResistoMembraneOnWall.jpg" caption="Resisto membrane on wall" %}
 {% include image.html file="ResistoMembraneOnCeiling.jpg" caption="Resisto membrane on ceiling" %}
+{% include image.html file="ResistoMembraneOnFloorAndWheelWells.jpg" caption="Resisto membrane on floor and wheel wells" %}
 
 Note that on the ceiling, the membrane was installed only in the outer recessed sections, leaving the inner metal sections exposed to allow gluing the insulation boards.
-
-Image of Resisto membrane on floor and wheel wells to come.
 
 We learned while installing the membrane that the self adhesive backing does not work well when cold. So:
 
@@ -82,7 +83,19 @@ We learned while installing the membrane that the self adhesive backing does not
 
 One side effect of using such a membrane is that is seals the metal surface to which it is glued. If condensation forms, it will at least not affect the parts of the metal surfaces where the membrane is installed, therefore avoiding corrosion. 
 
-We are not entirely sure of the effectiveness of this soundproofing solution. It does not look very heavy and knocking on metal panels with and without a membrane does not seem to show a significant difference. But it certainly has some effect, does not do any harm, and is much less expensive than dedicated soundproofing products, which may not necessarily be better (we do not know). Maybe installing 2 layers of it would do a better job, but that is not what we did.
+We are not entirely sure of the effectiveness of this soundproofing solution. It does not look very heavy and knocking on metal panels with and without a membrane does not seem to show a significant difference. But it does have some effect, does not do any harm, and is much less expensive than dedicated soundproofing products, which may not necessarily be better (we do not know).
+
+In the following video, we show the effectiveness of the soundproofing membrane. 
+
+<video controls="controls">
+  <source src="images/EffectivenessSoundproofingMembrane.mp4" type="video/mp4"> 
+  <source src="images/EffectivenessSoundproofingMembrane.webm" type="video/webm"> 
+  Your browser does not support the video element or the WebM format.
+</video>
+
+We do hear that knocking on the wheel well covered with the soundproofing membrane produces less resonance and a somewhat dampened sound.
+
+Maybe installing 2 layers of it would do a better job, but that is not what we did.
 
 Insulation boards {#insulation-boards}
 -----------------
@@ -132,6 +145,8 @@ For the walls and ceiling, we actually used 2 layers of insulation boards, makin
 
 {% include image.html file="SecondLayerInsulationBoards.jpg" caption="Second layer of insulation boards" %}
 
+Note that the empty spaces behind the structural metal beams, and in some other recessed areas such as behind the wheel wells, have not been insulated. See [spray foam](#spray-foam) and [dealing with potential condensation](#dealing-with-potential-condensation) for more information.
+
 For the [subfloor](#subfloor), in between the lumbers, we used one layer of 1" insulation boards plus an additional 1/2" board of a different type (our renovation center did not have 1/2" boards of the same type) to get a total thickness of 1 1/2", the same as the thickness of the lumbers so that the floor plywood lays flat on the lumbers and insulation boards. We did not glue the insulation panels to the floor.
 
 This is the spray adhesive we bought:
@@ -142,7 +157,7 @@ This adhesive is not good for XPS and although it worked reasonably well on the 
 
 While working on the camper van, we were satisfied by the fact that the insulation seemed effective because while we were heating ourselves in the van while working (during the [winter](intro-build-during-winter.html)), snow melted much faster on the front part of the roof under which no insulation boards were installed (because the ceiling fan has to be installed first). This means that the heat inside the van escaped much faster trough uninsulated parts of the ceiling, therefore prooving the effectiveness of the insulation on the rest of the ceiling.
 
-Note that the empty spaces behind the structural metal beams, and in some other recessed areas such as behind the wheel wells, have not been insulated. See [spray foam](#spray-foam) and [dealing with potential condensation](#dealing-with-potential-condensation) for more information.
+{% include image.html file="EffectivenessInsulationBoards.jpg" caption="Effectiveness of insulation boards" %}
 
 Spray foam {#spray-foam}
 ----------
@@ -173,7 +188,9 @@ Reflective bubble wrap {#reflective-bubble-wrap}
 Many camper van conversions use reflective bubble wrap (very often the Reflectix brand) as part of the insulation. It does look nice once installed (although hidden when the inner wrapping is complete). But after having read about it in many places including:
 
 <a href="https://vanlife.academy/spray-foam-van-insulation-reflectix/" target="_blank">https://vanlife.academy/spray-foam-van-insulation-reflectix/</a>
+
 <a href="https://www.thespruce.com/is-reflectix-foil-considered-real-insulation-1821923" target="_blank">https://www.thespruce.com/is-reflectix-foil-considered-real-insulation-1821923</a>
+
 <a href="https://www.reflectixinc.com/about-reflectix/technical-support/" target="_blank">https://www.reflectixinc.com/about-reflectix/technical-support/</a>
 
 we concluded it does not provide much benefits. Nevertheless, the principle of reflecting radiant heat trying to escape through wall back into the living area did make sense to us and the way we installed the [insulation boards](#insulation-boards} on the walls and ceiling allows for the required gap (about 1/2" to 1") for reflective bubble wrap to be effective. So we did include it in our build. And some will be left to make reflective window shades for hot and sunny days. 
@@ -203,14 +220,15 @@ Rivnuts {#rivnuts}
 
 Since we wanted to [minimize new holes](intro-high-level-design-choices.html#minimize-new-holes) in the metal parts of the vehicle, we used rivnuts to provide threads in the existing fitting holes. Bolts are threaded into the rivnuts to hold the [rough plywood panels](#rough-plywood-panels).
 
-{% include image.html file="Rivnut.jpg" caption="Rivnut" %}
+{% include image.html file="Rivnuts.jpg" caption="Rivnuts" %}
 
 These informative articles talk about using rivnuts and plusnuts for van conversions:
 
 <a href="http://www.pointsunknown.com/blog/2016/10/lessons-learned-rivnuts-vs-plusnuts/" target="_blank">http://www.pointsunknown.com/blog/2016/10/lessons-learned-rivnuts-vs-plusnuts/</a>
+
 <a href="http://faroutride.com/plusnut/" target="_blank">http://faroutride.com/plusnut/</a>
 
-They both recommend using plusnuts instead of rivnuts. But we nevertheless used rivnuts for the following reasons (which we now know think are probably invalid):
+They both recommend using plusnuts instead of rivnuts. But we nevertheless used rivnuts for the following reasons (which we now realize are probably invalid):
 
 - We felt plusnuts were more appropriate for thicker materials
 - Rivnuts are smaller and more discreet once installed
@@ -223,7 +241,7 @@ There are many fitting holes of different sizes in the Promaster walls. But hole
 There are the many small holes which can be found:
 
 - On the lips Around the wheel wells
-- Aound the rear lower half finishing panel area (around the wheel well up to the middle strural beam)
+- Around the rear lower half finishing panel area (around the wheel well up to the middle structural beam)
 - Around the front lower and upper halves sections of the wall behind the driver (there are unfortunately not many in the upper half section)
 
 We used rivnut model IRLS-1024-125 from Tec-N-Tec for these holes. They are 0.292" in diameter and fit the holes which are probably 5/16" perfectly. They take #10 bolts with 24 TPI which could easily be found at our local renovation center.
@@ -234,7 +252,7 @@ Then, there are the larger hexagonal holes which can be found around the rear up
 
 {% include image.html file="SomeLargeInstalledRivnuts.jpg" caption="Some large installed rivnuts" %}
 
-These rivnuts can be found in <a href="http://www.tec-n-tec.com/English/RiveTec/Insert/irlan.htm" target="_blank">this</a> page.
+These rivnuts can be found in <a href="http://www.tec-n-tec.com/English/Rivet-Insert/Insert/irls-irlt-open.htm" target="_blank">this</a> page.
 
 The other holes in the Promaster walls are either too large for DIY install or are oval, rectangular or square, making them not appropriate for rivnuts. Also, there are not as many of them. We did not bother trying to use these holes for installing the rough plywood panels.
 
