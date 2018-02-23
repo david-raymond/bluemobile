@@ -125,7 +125,7 @@ We used 1" blue XPS boards, despite the warning about them being not as heat res
 
 {% include image.html file="XpsInsulationBoard.jpg" caption="XPS insulation board" %}
 
-Cardboard templates were cut for the various irregular-shaped sections of the van walls and insulation board pieces were in turn cut using these templates.
+Cardboard templates were cut and trimmed for the various irregular-shaped sections of the van walls and insulation board pieces were in turn cut using these templates.
 
 In most cases the insulation boards are glued to the van metal panels with construction adhesive spots mostly at the corners. We used what we thought seemed to be the strongest adhesive available at our local renovation center:
 
@@ -178,7 +178,7 @@ Note that foam has not been sprayed within structural metal beams. It was tempti
 
 And even then, not all areas behind structural metal beams should be filled. Some of these areas contain wires and provide access to replaceable components such as tail lights.
 
-Maybe if spray foam insulation had been done professionally by a specialized company, we would have asked to completely filled many of these areas behind structural beams. But it was not, so we left these areas uninsulated.
+Maybe if spray foam insulation had been done professionally by a specialized company, we would have asked to completely filled many of these areas behind structural metal beams. But it was not, so we left these areas uninsulated.
 
 We believe these empty beams will allow some air circulation to avoid long term moisture accumulation from condensation and that it will reduce the risk of corrosion.
 
@@ -241,7 +241,7 @@ There are many fitting holes of different sizes in the Promaster walls. But hole
 There are the many small holes which can be found:
 
 - On the lips Around the wheel wells
-- Around the rear lower half finishing panel area (around the wheel well up to the middle structural beam)
+- Around the rear lower half finishing panel area (around the wheel well up to the middle structural metal beam)
 - Around the front lower and upper halves sections of the wall behind the driver (there are unfortunately not many in the upper half section)
 
 We used rivnut model IRLS-1024-125 from Tec-N-Tec for these holes. They are 0.292" in diameter and fit the holes which are probably 5/16" perfectly. They take #10 bolts with 24 TPI which could easily be found at our local renovation center.
@@ -260,6 +260,50 @@ See [here](misc-installing-rivnuts-diy-way.html) for advice in installing rivnut
 
 Rough plywood panels {#rough-plywood-panels}
 --------------------
+
+Various camper van builds use different approaches for wall paneling.
+
+Some builds go for straight vertical panels which cover the van walls completely and are installed over studs secured on the floor and ceiling. This makes interior fitting easy because of flat walls from front to back making a 90&deg; angle with the floor. But this has the drawback of wasting significant usable space behind the walls. In particular, this would probably make a [sideways bed platform](intro-high-level-design-choices.html#fixed-bed) too short, even for short persons like us.
+
+Our build goes for independent panels for each logical section of the walls, installed over the reflective bubble wrap, leaving some gap in between.
+
+{% include image.html file="RearPassengerSidePanels.jpg" caption="Rear passenger side panels" %}
+???
+
+In the picture above, we see that the rear passenger side is covered with 2 panels. The lower one is installed where an OEM plastic panel would be installed. This section is surrounded with many small holes including on lips around the wheel well. [Rivnuts](#rivnuts) were installed in these holes and the panel was secured with bolts.
+
+Contrary to the lower section, the upper section is not intended for an OEM panel. The many holes in the structural metal beams are probably intended to secure shelves or other upfitting accessories. But we managed to cut and install a panel using rivnuts in two rows of larger hexagonal holes. There one row at the bottom of the panel on the same structural metal beam as the upper row of small holes for the lower panel, and one row about 1 feet from the top of the section.
+
+Fitting the upper panel was not as easy as fitting the lower one. Some trimming was required toward the upper front part of the panel, and a 1/4" spacing strip had to be glued along the upper row of holes to account for the bend in the upper structural metal beam (1 feet from the top). 
+
+{% include image.html file="SpacingStripRearUpperPanel.jpg" caption="Spacing strip on rear upper panel" %}
+
+Unfortunately, no existing holes are available at the very top of the upper panel, as well as on its edges. We still believe that given the number of holes at the bottom and 1 feet from the top, and the fact that theses holes and rivnuts allow for larger bolts, the panel is still properly secured.
+
+The rear driver side is essentially identical to the passenger side, except that a windows will be installed in the upper section. A hole will be cut in the upper panel for that purpose.
+
+For the front driver side, the situation is similar. The lower section is intended for a plastic OEM panel and has small holes all around where rivnuts and bolts were used. The upper section as very few holes are available on the row 1 feet below the ceiling and, like in the rear, no holes at all on the edges. At the time of writing this, the front section paneling is not complete and we plan to use a few plusnuts with their larger front face and backing when set in a few much larger holes on the upper structural metal beam (1 feet from the top). 
+
+Cardboard templates were cut and trimmed to the shape of the panel sections and then used to cut the panels.
+
+1/2" rough plywood was used for the panels. They will be painted with gray Corrostop Ultra plastic enamel which happens to be excellent for painting wood and making it more resistent.
+
+{% include image.html file="CorrostopUltraPlasticEnamel.jpg" caption="Corrostop Ultra plastic enamel" %}
+
+5/8" or even 3/4" plywood would probably have been better and stronger, especially for the sections of the walls where cabinets will be anchored. But compromises had to be made in order to [reduce weight](intro-high-level-design-choices.html#weight-reduction) and [keep price down](intro-high-level-design-choices.html#target-price-for-conversions). We believe 1/2" plywood is sufficient.
+
+These plywood panels are rough and this does not matter since they will be hidden from view when the build is complete. 
+
+
+plywood
+not finishing, rough
+velcro
+same other side, except for window
+bolts recessed
+strong due to many bolts
+hole alignment
+cardboard used
+
 
 
 Subfloor {#subfloor}
