@@ -64,7 +64,7 @@ Of course, without propane, running hot water is pretty much out of the question
 
 So batteries, a solar charging system and an inverter are required. Anyways, for me this is a fun part in itself! 
 
-Also, not having propane excludes having a fixed heater (more space saved). The plan here is to not do camping in cold weather, and have a small low noise portable electric heater connected to the grid for those colder nights.
+Also, not having propane excludes having a fixed heater (more space saved). The plan here is to not do camping in cold weather, and have a small low noise [portable electric heater](#portable-electric-heater) connected to the grid for those colder nights.
 
 Portable electric heater {#portable-electric-heater}
 ------------------------

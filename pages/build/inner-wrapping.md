@@ -1,7 +1,7 @@
 ---
 title: Inner wrapping
 # keywords:
-last_updated: 2018-02-13
+last_updated: 2018-02-23
 # tags: []
 # summary: ""
 sidebar: main_sidebar
@@ -180,7 +180,7 @@ And even then, not all areas behind structural metal beams should be filled. Som
 
 Maybe if spray foam insulation had been done professionally by a specialized company, we would have asked to completely filled many of these areas behind structural metal beams. But it was not, so we left these areas uninsulated.
 
-We believe these empty beams will allow some air circulation to avoid long term moisture accumulation from condensation and that it will reduce the risk of corrosion.
+We believe these empty beams will allow some air circulation to avoid long-term moisture accumulation from condensation and that it will reduce the risk of corrosion.
 
 Reflective bubble wrap {#reflective-bubble-wrap}
 ---------------------- 
@@ -292,7 +292,7 @@ Cardboard templates were cut and trimmed to the shape of the panel sections and 
 
 5/8" or even 3/4" plywood would probably have been better and stronger, especially for the sections of the walls where cabinets will be anchored. But compromises had to be made in order to [reduce weight](intro-high-level-design-choices.html#weight-reduction) and [keep price down](intro-high-level-design-choices.html#target-price-for-conversions). We believe 1/2" plywood is sufficient.
 
-These plywood panels are rough and this does not matter since they will be hidden from view when the build is complete. 
+These plywood panels are rough but this does not matter since they will be hidden from view when the build is complete. They will either be covered by cabinets or thin light-weight panels covered with fabric.
 
 
 plywood
@@ -310,7 +310,83 @@ Subfloor {#subfloor}
 --------
 
 
+Ceiling {#ceiling}
+-------
+
+The ceiling was partly discussed in [insulation boards](#insulation-boards) and [reflective bubble wrap](#reflective-bubble-wrap).
+
+The only thing which needs to be mentioned about the ceiling is the way the ceiling finishing panels are to be secured. At the time of writing this, we do not know the precise solution yet.
+
+We believe we will use rivnuts in the small holes in the various structural metal beam across the ceiling to install some wood pieces at strategic locations to provide a solid backing onto which to screw the ceiling finishing panels and to create a gap between the reflective bubble wrap and the panels.
+
+The problem with this is that small holes are not present in convenient places (sides and center mostly) in all structural metal beams. We may use larger plusnuts instead for some holes.
+
+Alternatively, we may forgo the rivnuts and plusnuts and use construction adhesive to glue the wood pieces on the structural metal beams.
+
+In all cases, we will probably not use single-piece wood strips that extend all the way across the ceiling. We will probably have multiple smaller wood pieces on each structural metal beam creating opening between ceiling sections so that air can circulate more freely behind the ceiling finishing panels and thus avoid moisture from condensation.
+
+The actual ceiling finishing is covered [here](build-ceiling-finishing.html) as we do not consider it part of the hidden inner wrapping.
 
 Dealing with potential condensation {#dealing-with-potential-condensation}
 -----------------------------------
 
+In a camper van environment (or any vehicle for that matter), special consideration must be given to potential condensation.
+
+Condensation is prone to occur when moisture contained in warm air is in contact with cold surfaces since cold air can hold far less moisture than warm air. The larger the difference in temperature between the cold surface and the warm air, the more condensation will occur.
+
+This can very easily happen on the metal parts of a vehicle whose inside is heated to a comfortable temperature for its occupants, while the outside temperature is cold. Human breath contains lots of moisture which then condenses on the cold metal parts. 
+
+When we were working in the bare van during [cold winter days](intro-build-during-winter.html), this physical phenomenon was very obvious:
+
+- Frost would quickly form on cold surfaces not exposed to the sun, such as the floor, the wheel wells and in corners
+- After a few hours of work, frost would often become an ice crust
+- The blue van walls exposed to the sun and absorbing its energy would be warm or even hot and would not cause condensation on their inner faces 
+
+Condensation in itself is not problematic. But long-term presence of condensed moisture can have undesirable side effects:
+
+- Premature corrosion and deterioration of vehicle metal parts
+- Formation of unhealthy mold
+
+Dealing with condensation can be done in 2 ways. Either avoid it altogether or allow condensation to easily resorb.
+
+### Avoiding condensation by sealing
+
+Avoiding condensation can be done by preventing moist air from being in contact with cold parts. Since it is not really possible to prevent air from containing moisture, the solution is then to seal the parts that can become cold so that they are not in contact with air at all. Or course, most metal parts are primed and painted which does essentially seals them. But the paint is so thin that heat easy conducts through so that metal painted surfaces can become as cold as if they were not painted, and long-term condensation on a metal painted surface eventually invites corrosion.
+
+Impractical solutions could include:
+
+- Applying a layer of asphalt-based or polymer-based foundation coating on metal parts. This would probably be much too messy. This would not allow sealing recessed areas or areas behind structural metal beams. And this would possibly be a health hazard.
+- Have the inside of the van rust-proofed with a thick rust-proofing grease. This may allow sealing recessed areas or areas behind structural metal beams. But this would also by much too messy.
+
+And these solutions may avoid moisture contact with metal parts, but would not avoid condensation as the relatively thin film created by these products could still get cold.
+
+### Sealing with professional spay foam insulation
+
+As far as we can imagine, the only practical solution to completely sealing the metal parts is to have the inside of the van professionaly insulated with a thick layer of spray foam, including in recessed areas and areas behind structural metal beams. As a bonus, this is probably also the best approach to insulation.
+
+For someone with the budget and who does not mind covering the inside of his van permanently with foam, this could be a good solution to consider.
+
+But note that not all metal parts can be sealed this way. Some recessed areas and some areas behind structural metal beams are conducts for electrical wires or other accessories and should not be sprayed to allow eventual maintenance. So this solution needs to be combined with a way to allow eventual condensation to resorb.
+
+### Sealing with insulation boards and regular spray foam
+
+If the professional spray foam insulation solution is not used, we believe the next best solution is to use insulation boards which is easier on the budget and is not permanent (boards can be torn off, not leaving too much residue).  
+
+
+
+
+no fibres 
+
+
+- complete seal
+- voluntary air circulation.
+
+
+forms droplets of water on cold surfaces
+the surface of cold 
+
+ form droplets of water
+
+Moisture from condensation was 
+no airtight voids.
+No holes at the bottom of panels to let water out.
